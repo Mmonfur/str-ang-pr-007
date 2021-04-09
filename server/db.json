@@ -1,0 +1,134 @@
+{
+  "students": [ 
+    {
+        "id": 1,
+        "name": "Sanyi",
+        "email": "s@gmail.com",
+        "points": 0, 
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Sanyi",
+        "email": "s@gmail.com",
+        "points": 0, 
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Sanyi",
+        "email": "s@gmail.com",
+        "points": 0, 
+        "active": true
+    }
+  ],
+  "quizzes": [
+    {
+        "id": 1,
+        "title": "Q1",
+        "description": "",
+        "questions": [], 
+        "active": true
+    },
+    {
+        "id": 2,
+        "title": "Q2",
+        "description": "",
+        "questions": [], 
+        "active": true
+    },
+    {
+        "id": 3,
+        "title": "Q3",
+        "description": "",
+        "questions": [], 
+        "active": true
+    }
+  ],
+  "questions": [
+    {
+        "id": 1,
+        "question": "What's your name",
+        "answers": [
+          {
+            "id": 1,
+            "content": "YES",
+            "correct": true
+          },
+          {
+            "id": 2,
+            "content": "No",
+            "correct": false
+          },
+          {
+            "id": 3,
+            "content": "No",
+            "correct": false
+          },
+          {
+            "id": 4,
+            "content": "No",
+            "correct": false
+          }
+        ],
+        "points": 1, 
+        "active": true
+    },
+    {
+        "id": 2,
+        "question": "What's up",
+        "answers": [
+            {
+                "id": 1,
+                "content": "YES",
+                "correct": true
+              },
+              {
+                "id": 2,
+                "content": "No",
+                "correct": false
+              },
+              {
+                "id": 3,
+                "content": "No",
+                "correct": false
+              },
+              {
+                "id": 4,
+                "content": "No",
+                "correct": false
+              }
+        ],
+        "points": 1, 
+        "active": true
+    },
+    {
+        "id": 3,
+        "question": "Where do you live?",
+        "answers": [
+            {
+                "id": 1,
+                "content": "YES",
+                "correct": true
+              },
+              {
+                "id": 2,
+                "content": "No",
+                "correct": false
+              },
+              {
+                "id": 3,
+                "content": "No",
+                "correct": false
+              },
+              {
+                "id": 4,
+                "content": "No",
+                "correct": false
+              }
+        ],
+        "points": 1, 
+        "active": true
+    }
+  ]
+}
